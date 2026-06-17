@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "riadsdo.aternos.me",
+    "ip": "riadsd.aternos.me",
     "port": 20046,
     "version": "1.21.11"
   },
